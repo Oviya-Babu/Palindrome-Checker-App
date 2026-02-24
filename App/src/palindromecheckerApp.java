@@ -10,7 +10,7 @@
  Shows application version
  No palindrome logic is implemented yet.
  The goal is to establish a clear startup flow.
- @author Ramya Anandan
+ @author Oviya-Babu
  @version 1.0
  **/
 
@@ -26,7 +26,7 @@ public class palindromecheckerApp {
      @param args command-Line arguments
      **/
     public static void main( String[] args){
-        System.out.println("Welcome to pallindrome checker management system");
+        System.out.println("Welcome to palindrome checker management system");
         System.out.println("version 1.0");
         System.out.println("System initialized Successfully.");
     }
